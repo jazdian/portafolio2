@@ -9,7 +9,7 @@ export function loadMyName() {
           <a href="#contact" class="ubuntu-sans-mono-code text-gray-300 hover:text-white">&lt;contacto/&gt;</a>
         </div>
       
-        <h1 class="text-[65px] font-bold montserrat-alternates-semibold">René González Campos</h1>
+        <h1 class="text-[65px] font-bold montserrat-alternates-semibold">René González Campos XD</h1>
         <p class="mt-4 text-[30px] ubuntu-sans-mono-code2 text-xl">Programador Senior Backend y Frontend</p>
         <p class="mt-4 text-[18px]  ubuntu-sans-mono-code text-sm text-gray-500">Desarrollo experiancias digitales al pixel, accesibles y atractivas.</p>
       </div>
