@@ -1,7 +1,7 @@
 export function loadProjects() {
     const content = /* html */
     `
-    <section id="projects" class="my-8">
+    <section id="projects" class="my-8 container mx-auto mt-10">
       <h2 class="text-3xl font-semibold">Mis Proyectos</h2>
       <p>Ut duis est ipsum do velit irure do cupidatat eu qui exercitation sint officia. Proident ad occaecat qui laboris quis veniam enim eiusmod mollit sunt irure ut. Nulla minim in velit dolore veniam occaecat officia magna dolore nostrud magna aliquip.</p>
       <p>In fugiat ut ea adipisicing. Ipsum et proident reprehenderit laboris eu. Voluptate et nisi nostrud minim dolor ipsum.
