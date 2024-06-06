@@ -4,7 +4,7 @@ export function loadMyName() {
       <div class="text-center">     
         <h1 class="text-[55px] font-bold montserrat-alternates-semibold">René González Campos</h1>
         <p class="mt-4 ubuntu-sans-mono-code text-3xl">Programador Senior</p>
-        <p class="mt-4 text-[18px] ubuntu-sans-mono-code text-sm text-gray-500 hidden md:block ">Desarrollo experiancias digitales al pixel, accesibles y atractivas.</p>
+        <p class="mt-4 text-[18px] ubuntu-sans-mono-code text-sm text-gray-500 hidden md:block ">Desarrollo de experiancias digitales, accesibles y atractivas.</p>
       </div>
     </section>
 

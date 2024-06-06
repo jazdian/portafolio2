@@ -26,15 +26,22 @@ export function loadExperiencia() {
               </div>
               <div class="order-1 soft-glass-ui rounded-lg shadow-xl w-5/12 px-6 py-4">
                 <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">1997-2001</h3>
-                <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100"><span class="font-bold">Carrier Transicold de México</span> - Capturista de datos</p>
+                <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
+                <span class="font-bold">Carrier Transicold de México</span> <br/> 
+                Capturista de datos <br/> 
+                <span class="text-[11px]">Sistema Fourth Shift - ERP</span></p>
               </div>
             </div>
     
             <!-- Evento 2 -->
             <div class="mb-8 flex justify-between items-center w-full">
               <div class="order-1 w-5/12 soft-glass-ui rounded-lg shadow-xl px-6 py-4">
-                <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">2001-2012</h3>
-                <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100"><span class="font-bold">Grupo sur promociones</span> - Capturista de datos, Analista programador, Jefe de Sistemas.</p>
+                <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">2002-2013</h3>
+                <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
+                  <span class="font-bold">Grupo sur promociones de México</span> <br/> 
+                  Capturista, Analista programador, Jefe de Sistemas <br/>
+                  <span class="text-[11px]">Microsotft Office, Access, Visual Basic, ASP.Net 2.0.</span></p>
+                </p>
               </div>
               <div class="z-20 flex items-center order-1 soft-glass-ui shadow-xl w-8 h-8 rounded-full">
                 <h1 class="mx-auto font-semibold text-lg text-white">2</h1>
@@ -49,16 +56,24 @@ export function loadExperiencia() {
                 <h1 class="mx-auto font-semibold text-lg text-white">3</h1>
               </div>
               <div class="order-1 soft-glass-ui rounded-lg shadow-xl w-5/12 px-6 py-4">
-                <h3 class="mb-3 font-bold text-white text-xl">2012-2016</h3>
-                <p class="text-sm leading-snug tracking-wide text-white text-opacity-100">Descripción del evento 3.</p>
+                <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">2013-2017</h3>
+                <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
+                  <span class="font-bold">Telcel</span><br/>
+                  Analista programador<br/>
+                  <span class="text-[11px]">ASP.Net 3.5, C#, SQL Server, Javascript, AngularJS</span></p>
+                </p>
               </div>
             </div>
     
             <!-- Evento 4 -->
             <div class="mb-8 flex justify-between items-center w-full">
               <div class="order-1 w-5/12 soft-glass-ui rounded-lg shadow-xl px-6 py-4">
-                <h3 class="mb-3 font-bold text-white text-xl">2016-2018</h3>
-                <p class="text-sm leading-snug tracking-wide text-white text-opacity-100">Descripción del evento 4.</p>
+                <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">2017-2023</h3>
+                <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
+                  <span class="font-bold">Afore XXI - Banorte</span><br/>
+                  Programador Web<br/>
+                  <span class="text-[11px]">ASP.Net 4, ASP.Net Core 6, C#, SQL Server, PHP, MySQL, Javascript</span></p>
+                </p>
               </div>
               <div class="z-20 flex items-center order-1 soft-glass-ui shadow-xl w-8 h-8 rounded-full">
                 <h1 class="mx-auto font-semibold text-lg text-white">4</h1>
@@ -73,16 +88,24 @@ export function loadExperiencia() {
                 <h1 class="mx-auto font-semibold text-lg text-white">5</h1>
               </div>
               <div class="order-1 soft-glass-ui rounded-lg shadow-xl w-5/12 px-6 py-4">
-                <h3 class="mb-3 font-bold text-white text-xl">2018-2022</h3>
-                <p class="text-sm leading-snug tracking-wide text-white text-opacity-100">Descripción del evento 3.</p>
+                <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">2024-Actualidad</h3>
+                <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
+                  <span class="font-bold">ALSEA</span><br/>
+                  Programador Web<br/>
+                  <span class="text-[11px]">ASP.Net 4.5 - Angular, C#, SQL Server, Javascript</span></p>
+                </p>
               </div>
             </div>
     
             <!-- Evento 6 -->
             <div class="mb-8 flex justify-between items-center w-full">
               <div class="order-1 w-5/12 soft-glass-ui rounded-lg shadow-xl px-6 py-4">
-                <h3 class="mb-3 font-bold text-white text-xl">2022-2023</h3>
-                <p class="text-sm leading-snug tracking-wide text-white text-opacity-100">Descripción del evento 4.</p>
+                <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">Proximamente</h3>
+                <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
+                  <span class="font-bold">Freelance</span><br/>
+                  Desarrollador y Diseñador Web<br/>
+                  <span class="text-[11px]">Creación de Sistemas y aplicaciones Web, Páginas Web, Wordpress</span></p>
+                </p>
               </div>
               <div class="z-20 flex items-center order-1 soft-glass-ui shadow-xl w-8 h-8 rounded-full">
                 <h1 class="mx-auto font-semibold text-lg text-white">6</h1>
@@ -97,8 +120,13 @@ export function loadExperiencia() {
                 <h1 class="mx-auto font-semibold text-lg text-white">7</h1>
               </div>
               <div class="order-1 soft-glass-ui rounded-lg shadow-xl w-5/12 px-6 py-4">
-                <h3 class="mb-3 font-bold text-white text-xl">2024</h3>
-                <p class="text-sm leading-snug tracking-wide text-white text-opacity-100">Descripción del evento 3.</p>
+                <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">Mi experiencia</h3>
+                <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
+                  "Más de 20 años de experiencia en el sector de la tecnología. 
+                  Se dice fácil, pero el tiempo me ha dado experiencias y conocimiento; 
+                  pero más importante, el tiempo me ha enseñado que el trabajo duro y la honestidad 
+                  son valores que hacen mi vida más feliz."
+                </p>
               </div>
             </div>            
 
