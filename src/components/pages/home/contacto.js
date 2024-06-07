@@ -1,14 +1,26 @@
 export function loadContacto() {
     const content = /* html */
     `
-    <section id="contact" class="my-8 container mx-auto mt-10">
-      <h2 class="text-3xl font-semibold">Contacto</h2>
-      <p>Ut duis est ipsum do velit irure do cupidatat eu qui exercitation sint officia. Proident ad occaecat qui laboris quis veniam enim eiusmod mollit sunt irure ut. Nulla minim in velit dolore veniam occaecat officia magna dolore nostrud magna aliquip.</p>
-      <p>In fugiat ut ea adipisicing. Ipsum et proident reprehenderit laboris eu. Voluptate et nisi nostrud minim dolor ipsum.
-        <p>Proident fugiat est dolore labore esse sunt culpa ullamco et aliquip tempor. Voluptate sint ex ex aute sunt in fugiat. Cillum consectetur minim laboris enim. Aute et esse ut cillum Lorem et.</p>
-        <p>Tempor ullamco laboris ullamco cillum non irure culpa duis ad irure eu anim. Culpa veniam voluptate irure proident. Est Lorem dolor nisi aute quis officia culpa est laboris. Labore sit deserunt ex consectetur pariatur dolor dolore laboris amet. Ea reprehenderit officia ea excepteur consectetur Lorem ullamco deserunt anim proident ad exercitation mollit.</p>
-        <p>Proident fugiat est dolore labore esse sunt culpa ullamco et aliquip tempor. Voluptate sint ex ex aute sunt in fugiat. Cillum consectetur minim laboris enim. Aute et esse ut cillum Lorem et.</p>
-    </section>        
+    <section id="contact" class="bg-gray-800 text-white p-6">
+    <div class="container mx-auto">
+      <h2 class="text-4xl font-bold text-center mb-8">Contacto</h2>
+      <form action="#" method="POST" class="max-w-xl mx-auto">
+        <div class="mb-4">
+          <label for="name" class="block text-gray-300 mb-2">Nombre</label>
+          <input type="text" id="name" name="name" class="w-full p-2 rounded bg-gray-700 text-white focus:outline-none focus:ring-2 focus:ring-blue-500">
+        </div>
+        <div class="mb-4">
+          <label for="email" class="block text-gray-300 mb-2">Email</label>
+          <input type="email" id="email" name="email" class="w-full p-2 rounded bg-gray-700 text-white focus:outline-none focus:ring-2 focus:ring-blue-500">
+        </div>
+        <div class="mb-4">
+          <label for="message" class="block text-gray-300 mb-2">Mensaje</label>
+          <textarea id="message" name="message" rows="4" class="w-full p-2 rounded bg-gray-700 text-white focus:outline-none focus:ring-2 focus:ring-blue-500"></textarea>
+        </div>
+        <button type="submit" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700">Enviar</button>
+      </form>
+    </div>
+  </section>     
     `
 
     return content
