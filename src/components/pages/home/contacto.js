@@ -21,7 +21,7 @@ export function loadContacto() {
       </form>
     </div>
   </section>     
-    `
+  `
 
     return content
 }
