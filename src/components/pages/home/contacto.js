@@ -3,7 +3,9 @@ export function loadContacto() {
     `
     <section id="contact" class="bg-gray-800 text-white p-6">
     <div class="container mx-auto">
-      <h2 class="text-4xl font-bold text-center mb-8">Contacto</h2>
+      <h2 class="text-4xl font-bold montserrat-alternates-semibold text-center mb-8">
+      Contacto <a href="#inicio"><i class="bi bi-chevron-up" style="font-size: 2rem; color: cornflowerblue;"></i></a>
+      </h2>
       <form action="#" method="POST" class="max-w-xl mx-auto">
         <div class="mb-4">
           <label for="name" class="block text-gray-300 mb-2">Nombre</label>

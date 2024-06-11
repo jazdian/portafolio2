@@ -6,8 +6,8 @@ export function loadExperiencia() {
       <div class="flex flex-row">
       
         <div class="container mx-auto p-4">
-          <h2 class="text-3xl ubuntu-sans-mono-code text-center mb-8">
-            Experiencia
+          <h2 class="text-3xl montserrat-alternates-semibold text-center mb-8">
+            Experiencia <a href="#inicio"><i class="bi bi-chevron-up" style="font-size: 2rem; color: cornflowerblue;"></i></a>
           </h2>
           <div class="flex items-center justify-center">
             <div class="text-center">
@@ -24,7 +24,7 @@ export function loadExperiencia() {
               <div class="z-20 flex items-center order-1 soft-glass-ui shadow-xl w-8 h-8 rounded-full">
                 <h1 class="mx-auto font-semibold text-lg text-white">1</h1>
               </div>
-              <div class="order-1 soft-glass-ui rounded-lg shadow-xl w-5/12 px-6 py-4">
+              <div class="order-1 project-card-exp soft-glass-ui rounded-lg shadow-xl w-5/12 px-6 py-4">
                 <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">1997-2001</h3>
                 <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
                 <span class="font-bold">Carrier Transicold de México</span> <br/> 
@@ -35,7 +35,7 @@ export function loadExperiencia() {
     
             <!-- Evento 2 -->
             <div class="mb-8 flex justify-between items-center w-full">
-              <div class="order-1 w-5/12 soft-glass-ui rounded-lg shadow-xl px-6 py-4">
+              <div class="order-1 w-5/12 project-card-exp soft-glass-ui rounded-lg shadow-xl px-6 py-4">
                 <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">2002-2013</h3>
                 <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
                   <span class="font-bold">Grupo sur promociones de México</span> <br/> 
@@ -55,7 +55,7 @@ export function loadExperiencia() {
               <div class="z-20 flex items-center order-1 soft-glass-ui shadow-xl w-8 h-8 rounded-full">
                 <h1 class="mx-auto font-semibold text-lg text-white">3</h1>
               </div>
-              <div class="order-1 soft-glass-ui rounded-lg shadow-xl w-5/12 px-6 py-4">
+              <div class="order-1 project-card-exp soft-glass-ui rounded-lg shadow-xl w-5/12 px-6 py-4">
                 <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">2013-2017</h3>
                 <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
                   <span class="font-bold">Telcel</span><br/>
@@ -67,7 +67,7 @@ export function loadExperiencia() {
     
             <!-- Evento 4 -->
             <div class="mb-8 flex justify-between items-center w-full">
-              <div class="order-1 w-5/12 soft-glass-ui rounded-lg shadow-xl px-6 py-4">
+              <div class="order-1 w-5/12 project-card-exp soft-glass-ui rounded-lg shadow-xl px-6 py-4">
                 <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">2017-2023</h3>
                 <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
                   <span class="font-bold">Afore XXI - Banorte</span><br/>
@@ -87,7 +87,7 @@ export function loadExperiencia() {
               <div class="z-20 flex items-center order-1 soft-glass-ui shadow-xl w-8 h-8 rounded-full">
                 <h1 class="mx-auto font-semibold text-lg text-white">5</h1>
               </div>
-              <div class="order-1 soft-glass-ui rounded-lg shadow-xl w-5/12 px-6 py-4">
+              <div class="order-1 project-card-exp soft-glass-ui rounded-lg shadow-xl w-5/12 px-6 py-4">
                 <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">2024-Actualidad</h3>
                 <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
                   <span class="font-bold">ALSEA</span><br/>
@@ -99,7 +99,7 @@ export function loadExperiencia() {
     
             <!-- Evento 6 -->
             <div class="mb-8 flex justify-between items-center w-full">
-              <div class="order-1 w-5/12 soft-glass-ui rounded-lg shadow-xl px-6 py-4">
+              <div class="order-1 w-5/12 project-card-exp soft-glass-ui rounded-lg shadow-xl px-6 py-4">
                 <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">Proximamente</h3>
                 <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
                   <span class="font-bold">Freelance</span><br/>
@@ -119,7 +119,7 @@ export function loadExperiencia() {
               <div class="z-20 flex items-center order-1 soft-glass-ui shadow-xl w-8 h-8 rounded-full">
                 <h1 class="mx-auto font-semibold text-lg text-white">7</h1>
               </div>
-              <div class="order-1 soft-glass-ui rounded-lg shadow-xl w-5/12 px-6 py-4">
+              <div class="order-1 project-card-exp soft-glass-ui rounded-lg shadow-xl w-5/12 px-6 py-4">
                 <h3 class="mb-3 ubuntu-sans-mono-code font-bold text-white text-xl">Mi experiencia</h3>
                 <p class="text-sm ubuntu-sans-mono-code leading-snug tracking-wide text-white text-opacity-100">
                   "Más de 20 años de experiencia en el sector de la tecnología. 
