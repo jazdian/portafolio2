@@ -48,7 +48,12 @@ export function loadContent() {
   }
   
   export function navigateTo(url) {
-    history.pushState(null, null, url);
-    loadContent();
+    debugger;
+    if(url.includes("localhost") || url.includes("renegonzalezcampos")){
+      history.pushState(null, null, url);
+      loadContent();
+    } else {
+      window.open(url);
+    }
   }
   

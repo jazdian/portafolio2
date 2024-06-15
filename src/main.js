@@ -16,17 +16,17 @@ document.addEventListener('DOMContentLoaded', () => {
     link.addEventListener('click', (event) => {
       event.preventDefault();
       const url = event.target.getAttribute('href');
-      navigateTo(url);
-      enableSmoothScroll();  
+        navigateTo(url);
+        enableSmoothScroll();  
+        });
       });
-    });
-      
+        
     hoverExperience();
 });
 
 // Handle browser navigation (back/forward buttons)
 window.addEventListener('popstate', () => {
-  debugger;
   loadContent();
   enableSmoothScroll();
+  hoverExperience();
 });

@@ -10,9 +10,9 @@ export function loadMyName() {
 
     <!-- Internal Links -->
     <div class="absolute top-2/3 flex item-center justify-center space-x-4 z-10" style="width:100%;">
-      <a href="#experiencia" class="ubuntu-sans-mono-code text-gray-300 hover:text-white z-20">&lt;experiencia/&gt;</a>
-      <a href="#projects" class="ubuntu-sans-mono-code text-gray-300 hover:text-white">&lt;proyectos/&gt;</a>
-      <a href="#contact" class="ubuntu-sans-mono-code text-gray-300 hover:text-white">&lt;contacto/&gt;</a>
+      <a href="#experiencia" class="ubuntu-sans-mono-code project-link text-gray-300 z-20">&lt;experiencia/&gt;</a>
+      <a href="#projects" class="ubuntu-sans-mono-code project-link text-gray-300">&lt;proyectos/&gt;</a>
+      <a href="#contact" class="ubuntu-sans-mono-code project-link text-gray-300">&lt;contacto/&gt;</a>
     </div>
     `
 

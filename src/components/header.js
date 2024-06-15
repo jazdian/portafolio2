@@ -2,7 +2,7 @@ export function loadHeader() {
     const header = document.getElementById('header');
     header.innerHTML = /*html*/ `
     <!-- Navbar -->
-    <nav class="absolute w-full bg-black p-4 shadow-lg z-10 opacity-60">
+    <nav class="absolute w-full gradiente1 p-4 shadow-lg z-10 opacity-70">
       <div class="container mx-auto flex items-center justify-between">
         <!-- Logo -->
         <a href="/" class="nav-link text-white text-lg font-semibold ubuntu-sans-mono-code2 text-[24px]">
